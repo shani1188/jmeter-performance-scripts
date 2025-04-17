@@ -1,0 +1,104 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+login/api/users/login-979,50,649,479,1787,322.53,0.00%,27.77778,9.14,14.46,337
+login/api/users/login-980,50,443,326,549,55.92,0.00%,32.78689,97.79,22.96,3054.1
+login/api/users/dealerships-984,50,229,151,343,52.09,0.00%,38.46154,12.7,20.24,338
+login/api/users/dealerships-985,50,371,158,698,187.99,0.00%,41.11842,31.88,89.98,794
+login/api/users/dealerships/1/franchises-986,50,161,145,181,7.44,0.00%,66.9344,22.09,36.08,338
+login/api/gshoppers/dashboard/stats?dealershipId=1&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-987,50,161,145,183,7.25,0.00%,65.27415,21.55,39.2,338
+login/api/gshoppers/dashboard/graph?dealershipId=1&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-988,50,162,145,189,9.19,0.00%,63.61323,21,38.21,338
+login/api/gshoppers/dashboard/stats-989,50,231,164,635,81.55,0.00%,47.93864,20.97,108.46,448
+login/api/users/dealerships/1/franchises-990,50,228,171,716,72.34,0.00%,46.72897,15.52,102.85,340
+login/api/gshoppers/dashboard/graph-991,50,235,183,646,63.19,0.00%,43.59198,17.24,157,405
+"Switch SIT/api/users/dealerships/1/franchises-1,002",50,204,160,240,20.74,0.00%,47.84689,15.89,105.31,340
+Switch SIT/api/users/dealerships/1/franchises-993,50,164,148,179,6.32,0.00%,48.59086,16.04,26.19,338
+Switch SIT/api/sit/dashboard/graph?days=true&dealershipId=1&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-994,50,163,145,176,6.56,0.00%,48.30918,15.95,29.2,338
+Switch SIT/api/sit/dashboard/stats?dealershipId=1&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-995,50,162,147,174,7.35,0.00%,48.26255,15.93,28.7,338
+Switch SIT/api/sit/dashboard/heatmap?dealershipId=1&startDate=2023-03-29&endDate=2023-03-29-996,50,161,148,179,6.54,0.00%,48.26255,15.93,28.18,338
+Switch SIT/api/sit/dashboard/reasons?dealershipId=1&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-997,50,160,146,179,6.06,0.00%,47.61905,15.72,28.41,338
+Switch SIT/api/sit/dashboard/stats-998,50,359,181,816,118.16,0.00%,35.06311,13.8,79.12,403
+Switch SIT/api/sit/dashboard/graph-999,50,231,160,300,33.32,0.00%,34.9162,11.18,79.13,328
+"Switch SIT/api/sit/dashboard/heatmap-1,000",50,261,175,351,48.47,0.00%,34.31709,15.58,77.07,465
+"Switch SIT/api/sit/dashboard/reasons-1,001",50,218,167,327,53.19,0.00%,35.89375,30.25,81.07,863
+"Select Dealership/api/users/dealerships/98/franchises-1,007",50,169,148,541,53.85,0.00%,38.40246,12.68,20.74,338
+"Select Dealership/api/sit/dashboard/heatmap?dealershipId=98&startDate=2023-03-29&endDate=2023-03-29-1,008",50,161,148,199,8.09,0.00%,41.91115,13.83,24.52,338
+"Select Dealership/api/sit/dashboard/stats?dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,009",50,163,147,209,12.63,0.00%,41.70142,13.76,24.84,338
+"Select Dealership/api/sit/dashboard/reasons?dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,010",50,166,146,200,12.75,0.00%,41.15226,13.58,24.59,338
+"Select Dealership/api/sit/dashboard/graph?days=true&dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,011",50,170,147,531,52.28,0.00%,36.31082,11.99,21.99,338
+"Select Dealership/api/sit/dashboard/heatmap-1,012",50,220,161,262,26.67,0.00%,35.01401,44.45,78.67,1300
+"Select Dealership/api/sit/dashboard/graph-1,013",50,201,160,233,15.93,0.00%,34.45899,11.04,78.13,328
+"Select Dealership/api/sit/dashboard/stats-1,014",50,286,193,369,43.48,0.00%,34.53039,13.59,77.96,403
+"Select Dealership/api/sit/dashboard/reasons-1,015",50,206,167,273,26.58,0.00%,35.48616,29.91,80.18,863
+"Select Dealership/api/users/dealerships/98/franchises-1,016",50,189,155,464,41.91,0.00%,30.03003,18.09,66.12,617
+"click import data tab/api/users/dealerships/98/franchises-1,018",50,162,146,211,10.49,0.00%,29.94012,9.88,16.17,338
+"click import data tab/api/gshoppers/templates?pageNumber=1&pageSize=10&dealershipId=98-1,019",50,168,151,272,22.86,0.00%,29.69121,9.8,16.88,338
+"click import data tab/api/gshoppers/templates-1,020",50,345,156,1231,200.19,0.00%,18.10938,13.78,40.39,779
+"click import data tab/api/users/dealerships/98/franchises-1,021",50,528,151,1690,331.77,0.00%,11.6523,7.02,25.66,617
+"click submit button/api/sit?franchiseId=undefined-1,024",50,198,152,569,62.5,0.00%,11.70412,3.86,6.26,338
+"click submit button/api/sit?franchiseId=undefined-1,025",50,4761,972,7313,1555.29,2.00%,5.52792,2.17,128.32,401.7
+"click call template tab/api/users/dealerships/98/franchises-1,030",50,169,149,540,53.36,0.00%,5.99449,1.98,3.24,338
+"click call template tab/api/sit/templates?dateEnd=03-29-2023&dateStart=03-29-2023&dealershipId=98&franchiseId=&pageNumber=1&pageSize=10-1,031",50,161,147,189,6.78,0.00%,5.98587,1.98,3.68,338
+"click call template tab/api/users/dealerships/98/franchises-1,032",50,1122,164,2037,531.71,0.00%,5.98587,3.61,13.18,617
+"click call template tab/api/sit/templates-1,033",50,942,164,2304,657.01,0.00%,6.81106,38.37,15.5,5768
+"add new call template/api/users/dealerships/98/franchises-1,036",50,173,147,466,59.61,0.00%,8.43882,2.79,4.56,338
+"add new call template/api/users/dealerships/98/franchises-1,038",50,552,155,2071,571.62,0.00%,8.46453,5.1,18.64,617
+"call template submit /api/sit/templates-1,044",50,165,148,463,42.77,0.00%,12.50938,4.29,6.71,351
+"call template submit /api/sit/templates-1,045",50,324,158,1753,362.89,0.00%,12.43781,7.54,30.18,620.9
+"call template submit /api/users/dealerships/98/franchises-1,046",50,159,146,173,5.67,0.00%,20.63558,6.81,11.14,338
+"call template submit /api/sit/templates?dateEnd=03-29-2023&dateStart=03-29-2023&dealershipId=98&franchiseId=&pageNumber=1&pageSize=10-1,047",50,159,146,171,5.08,0.00%,20.52545,6.78,12.61,338
+"call template submit /api/sit/templates-1,048",50,222,151,1392,221.05,0.00%,20.42484,115.05,46.49,5768.2
+"call template submit /api/users/dealerships/98/franchises-1,049",50,168,152,200,10.13,0.00%,23.08403,13.91,50.83,617
+"click dashboard/api/users/dealerships/98/franchises-1,051",50,159,145,181,6.74,0.00%,23.27747,7.68,12.57,338
+"click dashboard/api/sit/dashboard/stats?dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,052",50,159,146,175,6.8,0.00%,23.36449,7.71,13.92,338
+"click dashboard/api/sit/dashboard/graph?days=true&dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,053",50,159,145,172,6.28,0.00%,23.29916,7.69,14.11,338
+"click dashboard/api/sit/dashboard/heatmap?dealershipId=98&startDate=2023-03-29&endDate=2023-03-29-1,054",50,160,147,180,7.65,0.00%,23.2342,7.67,13.59,338
+"click dashboard/api/sit/dashboard/reasons?dealershipId=98&franchiseId=&startDate=2023-03-29&endDate=2023-03-29-1,055",50,160,146,189,7.84,0.00%,23.09469,7.62,13.8,338
+"click dashboard/api/users/dealerships/98/franchises-1,056",50,185,152,274,31.47,0.00%,22.45173,13.53,49.44,617
+"click dashboard/api/sit/dashboard/graph-1,057",50,186,151,297,29.1,0.00%,22.21235,7.11,50.36,328
+"click dashboard/api/sit/dashboard/heatmap-1,058",50,260,154,633,138.99,0.00%,18.99696,24.12,42.68,1300
+"click dashboard/api/sit/dashboard/stats-1,059",50,508,170,1767,470.05,0.00%,11.88778,4.68,26.84,403
+"click dashboard/api/sit/dashboard/reasons-1,060",50,493,156,1552,465.41,0.00%,8.95576,7.55,20.24,863
+"search data/api/sit/dashboard/graph?days=true&dealershipId=98&franchiseId=&startDate=2023-03-01&endDate=2023-03-31-1,062",50,210,147,570,94.24,0.00%,8.72144,2.88,5.28,338
+"search data/api/sit/dashboard/stats?dealershipId=98&franchiseId=&startDate=2023-03-01&endDate=2023-03-31-1,063",50,200,148,575,80.59,0.00%,8.54701,2.82,5.09,338
+"search data/api/sit/dashboard/reasons?dealershipId=98&franchiseId=&startDate=2023-03-01&endDate=2023-03-31-1,064",50,194,145,308,48.46,0.00%,8.3682,2.76,5,338
+"search data/api/sit/dashboard/stats-1,065",50,1618,310,3465,837.22,0.00%,5.3984,2.16,12.19,410
+"search data/api/sit/dashboard/graph-1,066",50,754,237,1645,331.68,0.00%,4.73306,2.4,10.73,519
+"search data/api/sit/dashboard/reasons-1,067",50,1248,178,2624,535.74,0.00%,4.77966,4.21,10.8,902
+"click total visit KPI/api/users/dealerships/98/franchises-1,072",50,226,147,381,69.94,0.00%,4.82021,1.59,2.6,338
+"click total visit KPI/api/sit?&dateEnd=2023-03-31&dateStart=2023-03-01&dealershipId=98&franchiseId=&leadStatus=&pageNumber=1&pageSize=10-1,073",50,241,150,548,95.75,0.00%,4.70943,1.55,2.91,338
+"click total visit KPI/api/users/dealerships/98/franchises-1,074",50,837,226,1671,346.56,0.00%,4.68516,2.82,10.32,617
+"click total visit KPI/api/sit-1,075",50,1537,333,2615,591.16,0.00%,4.38289,14.61,9.98,3413
+"click total visit KPI/api/sit/notes/reasons-1,076",50,264,161,690,109.33,0.00%,4.65766,1.54,2.45,338
+"click total visit KPI/api/sit/notes/reasons-1,077",50,305,149,846,169.41,0.00%,4.70323,2.4,10.29,522
+"click add notes button/api/sit/notes?&visitId=13347-1,079",50,247,157,485,90.16,0.00%,4.70544,1.55,2.5,338
+"click add notes button/api/sit/12698?franchiseId=&dealershipId=98&visitId=13347-1,080",50,299,158,674,128.63,0.00%,4.57917,1.51,2.56,338
+"click add notes button/api/sit/templates?dateEnd=Fri%20Mar%2031%202023%2023%3A59%3A59%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dateStart=Wed%20Mar%2001%202023%2000%3A00%3A00%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dealershipId=98&franchiseId=&leadStatus=&pageNumber=1&pageSize=50-1,081",50,262,146,547,107.67,0.00%,4.58337,1.51,3.5,338
+"click add notes button/api/sit/12698-1,082",50,1022,165,2554,634.82,0.00%,4.56413,2.55,10.14,571.5
+"click add notes button/api/sit/notes-1,083",50,512,161,1370,387.09,0.00%,5.19751,13.36,11.4,2633
+"click add notes button/api/sit/templates-1,084",50,698,321,1708,369.92,0.00%,5.42123,103.22,13.02,19497
+"click add notes button/api/sit/templates/53-1,085",50,227,154,471,86.16,0.00%,5.85274,1.93,3.07,338
+"click add notes button/api/sit/templates/53-1,086",50,385,161,1582,284.37,0.00%,5.89345,4.66,12.89,809
+"add notes content from call template/api/sit/templates/66-1,087",50,203,152,472,76.83,0.00%,6.21195,2.05,3.26,338
+"add notes content from call template/api/sit/templates/66-1,088",50,435,158,1416,316.19,0.00%,6.42756,3.39,14.06,540
+"save notes/api/sit/notes-1,091",50,175,151,383,41.17,0.00%,7.66754,2.63,4.08,351
+"save notes/api/sit/notes-1,092",50,582,172,2910,700.36,0.00%,5.53526,3.05,13.53,564
+"save notes/api/users/dealerships-1,093",50,197,153,501,68.58,0.00%,6.34679,2.09,3.34,338
+"save notes/api/users/dealerships/98/franchises-1,094",50,193,154,594,81.17,0.00%,6.16371,2.03,3.33,338
+"save notes/api/sit?&dateEnd=2023-03-31&dateStart=2023-03-01&dealershipId=98&franchiseId=&leadStatus=&pageNumber=1&pageSize=10-1,095",50,204,152,424,68.93,0.00%,5.98372,1.98,3.69,338
+"save notes/api/sit/templates?dateEnd=Fri%20Mar%2031%202023%2023%3A59%3A59%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dateStart=Wed%20Mar%2001%202023%2000%3A00%3A00%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dealershipId=98&franchiseId=&leadStatus=&pageNumber=1&pageSize=50-1,096",50,208,154,403,56.58,0.00%,5.99592,1.98,4.57,338
+"save notes/api/sit/notes/reasons-1,097",50,209,147,649,96.93,0.00%,5.97443,1.97,3.14,338
+"save notes/api/sit/12698?franchiseId=&dealershipId=98&visitId=13347-1,098",50,198,149,405,65.41,0.00%,5.84659,1.93,3.27,338
+"save notes/api/sit/notes?&visitId=13347-1,099",50,282,149,643,178.66,0.00%,5.65867,1.87,3.01,338
+"save notes/api/sit/templates/53-1,100",50,231,149,490,98.5,0.00%,5.76502,1.9,3.03,338
+"save notes/api/sit/templates/66-1,101",50,231,149,633,88.08,0.00%,5.80518,1.92,3.05,338
+"save notes/api/users/dealerships-1,102",50,510,159,2218,495.42,0.00%,4.70278,3.65,10.29,794
+"save notes/api/users/dealerships/98/franchises-1,103",50,612,159,1824,588.16,0.00%,4.61638,2.78,10.16,617
+"save notes/api/sit/notes/reasons-1,104",50,416,148,1259,340.18,0.00%,4.61212,2.35,10.09,522
+"save notes/api/sit/12698-1,105",50,780,158,3281,729.45,0.00%,4.36034,3.32,9.68,780.5
+"save notes/api/sit-1,106",50,1508,285,3407,847.89,0.00%,3.9733,13.24,9.05,3413
+"save notes/api/sit/notes-1,107",50,1022,321,2512,470.52,0.00%,3.86399,123.21,8.47,32651.3
+"save notes/api/sit/templates-1,108",50,818,300,1974,428.51,0.00%,3.80981,72.54,9.15,19497
+"save notes/api/sit/templates/53-1,109",50,791,161,1993,507.32,0.00%,3.8506,3.04,8.42,809
+"save notes/api/sit/templates/66-1,110",50,700,160,2186,692.79,0.00%,3.93484,2.06,8.61,535
+"click generate report/api/sit/download?dateEnd=Fri%20Mar%2031%202023%2023%3A59%3A59%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dateStart=Wed%20Mar%2001%202023%2000%3A00%3A00%20GMT%2B0500%20(Pakistan%20Standard%20Time)&dealershipId=98&franchiseId=&leadStatus=&pageNumber=1&pageSize=10&download=csv-1,112",50,599,454,981,124.23,0.00%,3.83347,1.27,2.97,338
+"click generate report/api/sit/download-1,113",50,2621,1880,3734,450.86,0.00%,3.41413,752.79,8.37,225783
+TOTAL,5100,439,145,7313,664.5,0.02%,103.32881,360.03,167,3567.9
